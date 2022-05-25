@@ -14,7 +14,6 @@ An open source interface for Uniswap -- a protocol for decentralized exchange of
 - Discord: [Uniswap](https://discord.gg/Y7TF6QA)
 - Whitepaper: [Link](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)
 
-
 ## Accessing the Uniswap Interface
 
 To access the Uniswap Interface, use an IPFS gateway link from the
